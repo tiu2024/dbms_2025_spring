@@ -12,29 +12,38 @@ Har bir yozgan sorovingizga paydo bolgan natijani screenshot qilib va usha sorov
 Masalan:
 
 Mashq 1
-------- Yartilgan SQLSorov -------
-------- Natija rasmi -------
+------- Yartilgan SQLSorov -------  
+
+------- Natija rasmi -------  
+
 
 Mashq 2
-------- Yartilgan SQLSorov -------
-------- Natija rasmi -------
+------- Yartilgan SQLSorov -------  
+
+------- Natija rasmi -------  
+
 
 Mashq 3
-------- Yartilgan SQLSorov -------
-------- Natija rasmi -------
+------- Yartilgan SQLSorov -------  
 
-...
+------- Natija rasmi -------  
 
-Baholash mezoni quyidagicha DDL code uchun yani jadvallarni yaratish uchun yozilgan code bu 20 ball degani, va qolgan 10ta mashqga 8 balldan har biriga
-5 baho bu - 90 ball va undan yuqori
-4 baho bu - 75 - 89
-3 baho bu - 60 - 74
+
+...  
+
+
+Baholash mezoni quyidagicha DDL code uchun yani jadvallarni yaratish uchun yozilgan code bu 20 ball degani, va qolgan 10ta mashqga 8 balldan har biriga  
+
+5 baho bu - 90 ball va undan yuqori  
+
+4 baho bu - 75 - 89  
+
+3 baho bu - 60 - 74  
+
 
 ESLATMA:
 
-Agar kimniki yechilishi uhshash bo'lsa barcha ohshashlar togri 2 oladi. Masalan Eshmat bilan Toshmatni javoblari bir hil bu degani Eshmat aqlli bo'lib ozi qilgan
-lekn Toshmatga rahmi kelib 5ta mashqda kochirtirgan va DDL da yordam bergani lekn fan boyicha ustoz Boltavoy buni tekshirishda sezib qolgan va Eshmatga ham Toshmatga
-ham o'raliqga 2 qo'ygan.
+Agar kimniki yechilishi uhshash bo'lsa barcha ohshashlar togri 2 oladi. Masalan Eshmat bilan Toshmatni javoblari bir hil bu degani Eshmat aqlli bo'lib ozi qilgan lekn Toshmatga rahmi kelib 5ta mashqda kochirtirgan va DDL da yordam bergani lekn fan boyicha ustoz Boltavoy buni tekshirishda sezib qolgan va Eshmatga ham Toshmatga ham o'raliqga 2 qo'ygan.
 
 Chatgpt va boshqa chatbot, LLM lardan foydalangan oquvchilarga to'g'ridan to'g'ri 2 baho qo'yiladi. Oddiy dasturchi ham osongina code kim tomondan yozilganini bemalol sezadi. Umuman ishlatmanglar.
 
