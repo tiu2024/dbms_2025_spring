@@ -9,21 +9,24 @@ moslangan 10ta mashq bor siz shu mashqlarga sorov yozishingiz kerak. Natijalarni
 
 Har bir yozgan sorovingizga paydo bolgan natijani screenshot qilib va usha sorovni word file ga mashq tartib raqamiga moslab qoyasiz va Hemisga yuklaysiz.
 
-Masalan:
+Masalan: 
 
-Mashq 1
+Mashq 1  
+
 ------- Yartilgan SQLSorov -------  
 
 ------- Natija rasmi -------  
 
 
-Mashq 2
+Mashq 2  
+
 ------- Yartilgan SQLSorov -------  
 
 ------- Natija rasmi -------  
 
 
-Mashq 3
+Mashq 3  
+
 ------- Yartilgan SQLSorov -------  
 
 ------- Natija rasmi -------  
